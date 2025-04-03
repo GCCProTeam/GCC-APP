@@ -11,7 +11,8 @@ You can use our Apps to collect and save data from your Android phone. We sincer
 -
 
 - Collect GNSS raw data
-- Convert raw data to rinex-o file
+- Convert GNSS raw data to rinex-o file
+- Support crowdsourcing functionality
 
 ---
 
@@ -19,8 +20,9 @@ You can use our Apps to collect and save data from your Android phone. We sincer
 -
 
 - Collect GNSS raw data and IMU data
-- Convert raw data to rinex-o file
-- You can customize the scanning frequency
+- Convert GNSS raw data to rinex-o file
+- Customize the IMU scanning frequency
+- Support crowdsourcing functionality
 
 ---
 
@@ -28,4 +30,5 @@ You can use our Apps to collect and save data from your Android phone. We sincer
 -
 
 - Collect Bluetooth/WiFi/5G data
-- You can customize the scanning frequency
+- Customize the multi-sensor scanning frequency
+- Support crowdsourcing functionality
